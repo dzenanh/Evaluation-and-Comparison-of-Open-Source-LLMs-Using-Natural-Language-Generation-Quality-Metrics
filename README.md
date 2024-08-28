@@ -2,6 +2,11 @@
 
 This repository provides a comprehensive evaluation and comparison of various open-source Large Language Models (LLMs) using natural language generation quality metrics. The goal is to assess the performance of these models in generating high-quality text based on different datasets and metrics.
 
+## Q&A Generation
+The Dataset B (DSB) is generated using the following notebook:
+[Q&A Dataset Generation-DSB](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/data_generation-DSB.ipynb)
+
+
 ## Q&A Datasets
 
 The following datasets are used for evaluation:
