@@ -1,23 +1,43 @@
-# Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics
-Evaluation and Comparison of Open-Source LLMs Using Natural Language Generation Quality Metrics
+# Evaluation and Comparison of Open-Source LLMs Using Natural Language Generation Quality Metrics
 
-## Q&A datasets are:
-1. Dataset A: https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/QandA-dataset-AI-DSA.csv
-2. Dataset B: https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/QandA-dataset-SEC-DSB.csv
+This repository provides a comprehensive evaluation and comparison of various open-source Large Language Models (LLMs) using natural language generation quality metrics. The goal is to assess the performance of these models in generating high-quality text based on different datasets and metrics.
 
-## RAG Documents are:
-1. Dataset A: https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/ARAGOG-main.zip
-2. Dataset B: https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/security_dataset2.jsonl
+## Q&A Datasets
 
-## LLM RAG-Q&A Execution:
-1. Dataset A: https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/evaluate_RAG_LLM-DSA.ipynb
-2. Dataset B: https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/evaluate_RAG_LLM-DSB.ipynb
-   ### Output files:
-        https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/output.zip
+The following datasets are used for evaluation:
 
-## Exploratory Data Analysis:  
-1. Dataset A: https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/EDA_RAG_LLM-DSA.ipynb
-2. Dataset B: https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/EDA_RAG_LLM-DSB.ipynb
+- **Dataset A**: [Q&A Dataset AI-DSA](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/QandA-dataset-AI-DSA.csv)
+- **Dataset B**: [Q&A Dataset SEC-DSB](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/QandA-dataset-SEC-DSB.csv)
 
-## Results:
-https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/Results_Analysis.ipynb
+## RAG Documents
+
+The following documents are used for Retrieval-Augmented Generation (RAG):
+
+- **Dataset A**: [ARAGOG-main.zip](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/ARAGOG-main.zip)
+- **Dataset B**: [Security Dataset 2](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/security_dataset2.jsonl)
+
+## LLM RAG-Q&A Execution
+
+The execution scripts for evaluating RAG-Q&A are provided below:
+
+- **Dataset A**: [Evaluate RAG LLM-DSA](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/evaluate_RAG_LLM-DSA.ipynb)
+- **Dataset B**: [Evaluate RAG LLM-DSB](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/evaluate_RAG_LLM-DSB.ipynb)
+
+## Output Files
+
+The output from the evaluations can be accessed here:
+
+- [Download Output Files](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/output.zip)
+
+## Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis notebooks are available for both datasets:
+
+- **Dataset A**: [EDA for RAG LLM-DSA](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/EDA_RAG_LLM-DSA.ipynb)
+- **Dataset B**: [EDA for RAG LLM-DSB](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/EDA_RAG_LLM-DSB.ipynb)
+
+## Results
+
+The results of the analysis and comparisons are summarized in the following notebook:
+
+- [Results Analysis](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/Results_Analysis.ipynb)
