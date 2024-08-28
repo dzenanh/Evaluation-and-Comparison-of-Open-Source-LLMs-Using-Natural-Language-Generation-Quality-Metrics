@@ -11,8 +11,8 @@ The Dataset B (DSB) is generated using the following notebook:
 
 The following datasets are used for evaluation:
 
-- **Dataset A**: [Q&A Dataset AI-DSA](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/QandA-dataset-AI-DSA.csv)
-- **Dataset B**: [Q&A Dataset SEC-DSB](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/QandA-dataset-SEC-DSB.csv)
+- **Dataset A (DSA)**: [Q&A Dataset AI-DSA](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/QandA-dataset-AI-DSA.csv)
+- **Dataset B (DSB)**: [Q&A Dataset SEC-DSB](https://github.com/dzenanh/Evaluation-and-Comparison-of-Open-Source-LLMs-Using-Natural-Language-Generation-Quality-Metrics/blob/main/QandA-dataset-SEC-DSB.csv)
 
 ## RAG Documents
 
